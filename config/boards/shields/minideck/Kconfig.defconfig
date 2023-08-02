@@ -1,0 +1,6 @@
+if SHIELD_MINIDECK
+
+config ZMK_KEYBOARD_NAME
+    default "MiniDeck"
+
+endif
