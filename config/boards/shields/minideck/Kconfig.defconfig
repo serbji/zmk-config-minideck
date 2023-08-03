@@ -3,9 +3,6 @@ if SHIELD_MINIDECK
 config ZMK_KEYBOARD_NAME
     default "minideck"
 
-config USB_DEVICE_PRODUCT
-    default ZMK_KEYBOARD_NAME
-
 config BT_DEVICE_NAME
     default ZMK_KEYBOARD_NAME
 
