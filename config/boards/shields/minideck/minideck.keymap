@@ -14,7 +14,7 @@
 
         bt_layer { 
             bindings = <
-                    &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_CLR    &none
+                    &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_CLR    &trans
             >;
         };
 
